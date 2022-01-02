@@ -18,13 +18,35 @@
             color: red;
             font-size: 20px;
         }
+
+        #block {
+            width: 150px;
+            background-color: red;
+            height: 100px;
+            border: 1px solid black;
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+
+        #btn {
+            position: absolute;
+            top: 150px;
+        }
+
+        #reset {
+            position: absolute;
+            top: 150px;
+            left: 100px;
+        }
     </style>
     <script src='./script.js' defer></script>
 </head>
 
 
-<input id='one' type='text'></input>
-<p id='result'></p>
+<div id='block'></div>
+<button id='btn'>Animate</button>
+<button id='reset'>Reset</button>
 </body>
 
 </html>
