@@ -1,0 +1,7 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Night Wolf [black]",
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
