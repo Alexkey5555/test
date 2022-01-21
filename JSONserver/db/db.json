@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Mark1",
+      "email": "sanya@mail.com",
+      "children": true,
+      "permissions": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jacob",
+      "email": "sanya@mail.com",
+      "children": false,
+      "permissions": true
+    },
+    {
+      "name": "Alex",
+      "email": "sanya@mail.com",
+      "children": false,
+      "permissions": false,
+      "id": 3
+    }
+  ]
+}
